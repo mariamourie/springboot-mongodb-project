@@ -35,7 +35,7 @@ Já com a entidade Post, é possível realizar as seguintes operações na camad
 
 # Ferramentas utilizadas
 
-[![Ferramentas utilizadas no projeto](https://skillicons.dev/icons?i=eclipse,postman,maven,git)](https://skillicons.dev)
+[![Ferramentas utilizadas no projeto](https://skillicons.dev/icons?i=eclipse,postman,maven,git&theme=light)](https://skillicons.dev)
 
 # Como executar o projeto
 
